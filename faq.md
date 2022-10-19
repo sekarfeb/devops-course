@@ -1,6 +1,6 @@
 # FAQ
 
-1. [ Connection ](#connection)
+1. [ Why my system is getting slow response after I started using Discord?  ](#connection)
 
 2. [ Connection ](#connection1)
 
@@ -20,24 +20,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a name="connection"></a>
-1. Connection
+1. Try disabling the "Hardware Acceleration" under the Advanced section in User Settings.
 
 <a name="connection1"></a>
 2. Connection
